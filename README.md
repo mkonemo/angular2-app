@@ -1,2 +1,3 @@
 # angular2-app
-Test di Angular2
+> Test di Angular2
+> Applicazioni derivate dai tutorial
